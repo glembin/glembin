@@ -11,9 +11,3 @@ We also implement **AI solutions** that help businesses save time and gain more 
 📧 **Email:** biuro@glembin.pl
 
 </div>
-
----
-
-## Tech Stack
-
-![Tech Stack](https://skillicons.dev/icons?i=html,css,bootstrap,js,github,git,typescript,py,php,mysql,cs,java,bash,unity,blender)
