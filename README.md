@@ -7,7 +7,7 @@
 We create websites, graphics, social media content, short-form videos, and marketing. <br>
 We also implement AI solutions that help businesses save time and gain more clients.
 
-🌐 **Website:** https://glembin.pl  
+🌐 **Website:** [glembin.pl](glembin.pl)
 📧 **Email:** biuro@glembin.pl
 
 </div>
