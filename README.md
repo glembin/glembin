@@ -4,8 +4,8 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=500&lines=More+clients.+Less+work." alt="Typing SVG" />
 </a>
 <br>
-We create **websites**, **graphics**, **social media content**, **short-form videos**, and **marketing**.  
-We also implement **AI solutions** that help businesses save time and gain more clients.
+We create websites, graphics, social media content, short-form videos, and marketing.  
+We also implement AI solutions that help businesses save time and gain more clients.
 
 🌐 **Website:** https://glembin.pl  
 📧 **Email:** biuro@glembin.pl
